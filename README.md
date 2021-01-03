@@ -35,3 +35,8 @@ respirators at hospital h, and Dh is the projected demand for hospital h (for h 
 coordinates of hospital h by Xh and Yh. **A word file containing the problem formulation** should be generated from python code.
 2. Using Excel Solver and the problem formulation, what is the optimal cost and decision?
 
+### Instructions
+
+1. Generate the Problem Formulation in a word file by running Run-Formulation in Jupyter Notebook.
+2. Using the problem formulation, Solution.xlsx contains the optimal cost and decision.
+
